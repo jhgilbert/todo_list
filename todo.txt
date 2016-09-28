@@ -1,0 +1,18 @@
+Election day stuff - DONE
+
+Chat about where we're going from here - DONE
+
+Go over the activity answers - DONE
+
+Draw a picture of branching - DONE
+Draw a picture of GitHub - DONE
+
+Live code demo:
+Repo creation
+Branching
+Commit cycle
+Merging
+Remote repo creation
+Pushing changes
+
+Chat about today's activities
