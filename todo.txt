@@ -8,9 +8,9 @@ Draw a picture of branching - DONE
 Draw a picture of GitHub - DONE
 
 Live code demo:
-Repo creation
-Branching
-Commit cycle
+Repo creation - DONE
+Branching - DONE
+Commit cycle - DONE
 Merging
 Remote repo creation
 Pushing changes
